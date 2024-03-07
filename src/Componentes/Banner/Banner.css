@@ -1,0 +1,22 @@
+/* Banner.css */
+.banner-container {
+    color: #fff; /* Color de texto blanco */
+    text-align: center;
+    padding: 15px;
+    animation: colorChange 4s infinite alternate; /* Animación de cambio de color */
+    margin-top: 50px;
+    width: 100%;
+  }
+  
+  @keyframes colorChange {
+    0% {
+      background-color: #4caf50; /* Color inicial: verde */
+    }
+    50% {
+      background-color: #2196f3; /* Color intermedio: azul */
+    }
+    100% {
+      background-color: #ff9800; /* Color final: naranja */
+    }
+  }
+  

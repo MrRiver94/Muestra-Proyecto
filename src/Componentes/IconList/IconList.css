@@ -1,0 +1,25 @@
+.user-icons {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.user-icons .cart-icon {
+
+    padding: 10px;
+    display: inline-block;
+    font-size: 24px;
+    cursor: pointer;
+    margin-right: 20px; /* Espacio entre los íconos */
+}
+
+.user-icons .cart-count {
+    background-color: #ff0000; /* Color de fondo del contador */
+    color: #ffffff; /* Color del texto del contador */
+    border-radius: 50%; /* Hace que el contador tenga forma de círculo */
+    padding: 2px 6px; /* Espaciado dentro del contador */
+    font-size: 12px;
+    position: absolute;
+    top: -5px;
+    right: -5px;
+}
