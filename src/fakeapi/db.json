@@ -1,19 +1,5 @@
 {
   "products": [
-
-
-    {
-      "id": 1,
-      "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
-      "price": 109.95,
-      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
-      "category": "men's clothing",
-      "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
-      "rating": {
-        "rate": 3.9,
-        "count": 120
-      }
-    },
     {
       "id": "2",
       "title": "Mens Casual Premium Slim Fit T-Shirts ",
@@ -231,16 +217,16 @@
       }
     },
     {
-      "title": "CACA",
-      "price": "60",
+      "id": "e6ffb6bc-65b3-478b-b0e0-23723780be16",
+      "title": "",
+      "price": 0,
       "description": "",
-      "id": "e39ecf02-d925-4085-b547-c91234fe5f32"
-    },
-    {
-      "title": "Huevo",
-      "price": "75",
-      "description": "",
-      "id": "fe38640b-1f2f-45a1-946c-a0d19354a3a8"
+      "category": "",
+      "image": "",
+      "rating": {
+        "rate": 0,
+        "count": 0
+      }
     }
   ]
 }
